@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/D4D12AQFpzLKf1UbmZg/article-cover_image-shrink_600_2000/0/1693389385130?e=1719446400&v=beta&t=Ir3Yg4PuLF03Jri5f8oXvVW0kCaONqBbHge-iaeOly0](https://docs.google.com/spreadsheets/d/1Je8dZIWUCMebVS6CU08YTcwptH_agWm54dlvd4pclX4/edit#gid=0))
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrisita.co.in%2F2023%2F01%2F06%2Fconstruction-management-using-the-cloud%2F&psig=AOvVaw3Y9xOP1978mCbNfxEOe7w2&ust=1714308442327000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj389-24oUDFQAAAAAdAAAAABAI)
 <h1 align="center">Hi 👋, I'm Yasin PATKAVAK</h1>
 <h3 align="center">I am a Turkish cloud technology enthusiast</h3>
 
