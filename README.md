@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQFpzLKf1UbmZg/article-cover_image-shrink_600_2000/0/1693389385130?e=1719446400&v=beta&t=Ir3Yg4PuLF03Jri5f8oXvVW0kCaONqBbHge-iaeOly0)
+![MasterHead]([https://media.licdn.com/dms/image/D4D12AQFpzLKf1UbmZg/article-cover_image-shrink_600_2000/0/1693389385130?e=1719446400&v=beta&t=Ir3Yg4PuLF03Jri5f8oXvVW0kCaONqBbHge-iaeOly0](https://docs.google.com/spreadsheets/d/1Je8dZIWUCMebVS6CU08YTcwptH_agWm54dlvd4pclX4/edit#gid=0))
 <h1 align="center">Hi 👋, I'm Yasin PATKAVAK</h1>
 <h3 align="center">I am a Turkish cloud technology enthusiast</h3>
 
