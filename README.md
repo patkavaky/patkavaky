@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [www.linkedin.com/in/yasinpatkavak](www.linkedin.com/in/yasinpatkavak)
 
 - ⚡ Fun fact **Earth is like an insane asylum for the universe.**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/patttech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patttech" height="30" width="40" /></a>
